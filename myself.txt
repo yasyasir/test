@@ -3,3 +3,10 @@ DOB             : 19/06/1997
 State           : Tamilnadu.
 Languages Known : Tamil,English
 Blood Group     : A1+
+
+//EDUCATION DETAILS
+ 10th percentage       : 96
+ 12th percentage       : 89
+ Graduation percentage : 78
+ Degree                : BE(EEE)
+ Graduation year       : 2019
